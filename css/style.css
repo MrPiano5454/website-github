@@ -16,6 +16,10 @@ nav.menu-nav ul li.btn:hover a{
     transition: 0.3s all;
 }
 
+h1.titre{
+    color: darkred;
+}
+
 
 
 
